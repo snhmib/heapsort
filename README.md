@@ -1,0 +1,1 @@
+The usual implementation of heap sort in Haskell uses lists as arrays and hence does not qualify as purely functional in my opinion. Somewhat to my surprise could not find anything decent (ie. correct and understandable) on the internet and hence implemented my own solution.
